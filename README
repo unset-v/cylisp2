@@ -1,0 +1,4 @@
+# Cylisp2
+
+Inspired by Sussman & Abelson's SICP: While the machine resides in the Python
+Universe, the majority of the LISP is written in the LISP itself.
